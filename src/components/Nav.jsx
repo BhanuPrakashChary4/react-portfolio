@@ -38,7 +38,7 @@ export function Nav() {
                 duration={500}
                 className="text-white px-3 py-5 rounded-md text-sm font-medium hover:text-yellow-300 cursor-pointer"
               >
-                Contact Me
+                Contact
               </Link>
             </div>
             {/* <div className="hidden sm:ml-6 sm:flex sm:items-center">
